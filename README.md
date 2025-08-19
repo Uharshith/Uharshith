@@ -1,14 +1,14 @@
-# Hi, I’m Harshith 👋
+# Hi, I’m  Harshith 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0DF3E3&center=true&vCenter=true&width=500&height=55&lines=Full-Stack+Developer+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer+%7C+Turning+Ideas+into+Web+Apps)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m a **Full-Stack Developer** working on **Django & React projects**  
-- 🌱 I’m learning **AI & Machine Learning** for next-level projects  
-- 💬 Ask me about **Python, Django, React, Web Development, and AI**  
-- 🎯 Focused on **Data Structures, Algorithms, and building real-world applications**  
+Hi, I’m Harshith 👋 – a **Full-Stack Developer** focused on **turning ideas into real-world web applications** using **Django, React, and Python**.  
+- 🌱 I’m learning **AI & Machine Learning** to enhance my projects  
+- 💬 Ask me about **Web Development, Full-Stack Projects, and AI**  
+- 🎯 Passionate about building **efficient, scalable, and user-friendly applications**
 
 ---
 
@@ -24,12 +24,12 @@
 ## 📂 Projects
 
 ### 1️⃣ Digital Kart (Ecommerce Website)
-![Digital Kart](https://images.unsplash.com/photo-1612831665111-1f7e9852e1f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfGFsbHwxfHxzaG9wcGluZ3xlbnwwfHx8fDE2OTI0MzU2NTk&ixlib=rb-4.0.3&q=80&w=400)
+![Digital Kart](images/digitalkart.png)  
 - Full-stack project with **JWT authentication, Cart, Orders, and Payment Integration**  
 - **Frontend:** React | **Backend:** Django REST Framework  
 
 ### 2️⃣ Fake News Detector
-![Fake News](https://images.unsplash.com/photo-1581091215366-3ff635d4f048?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfGFsbHwxfHxjb21wdXRlcnxlbnwwfHx8fDE2OTI0MzU3MjA&ixlib=rb-4.0.3&q=80&w=400)
+![Fake News Detector](images/fakenews.png)  
 - Detects **fake news using Machine Learning algorithms**  
 - **Tech:** Python, Scikit-learn, NLP  
 
