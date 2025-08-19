@@ -24,16 +24,26 @@ Hi, I’m Harshith 👋 – a **Full-Stack Developer** focused on **turning idea
 ## 📂 Projects
 
 ### 1️⃣ Digital Kart (Ecommerce Website)
-![Digital Kart](images/logo.jpg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF0000&center=true&vCenter=true&width=500&height=40&lines=Digital+Kart+-+Ecommerce+Website)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="images/logo.jpg" alt="Digital Kart" width="400"/>
+</p>
+
 - Full-stack project with **JWT authentication, Cart, Orders, and Payment Integration**  
 - **Frontend:** React | **Backend:** Django REST Framework  
 
 ### 2️⃣ Fake News Detector
-![Fake News Detector](images/fake_news_detection.jpg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF0000&center=true&vCenter=true&width=500&height=40&lines=Fake+News+Detector)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="images/fake_news_detection.jpg" alt="Fake News Detector" width="400"/>
+</p>
+
 - Detects **fake news using Machine Learning algorithms**  
 - **Tech:** Python, Scikit-learn, NLP  
 
----
+
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/u-harshith-47b069303/)  
