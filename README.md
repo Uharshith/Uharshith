@@ -1,6 +1,6 @@
 # Hi, I’m  Harshith 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer+%7C+Turning+Ideas+into+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0000FF&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer+%7C+Turning+Ideas+into+Web+Apps)](https://git.io/typing-svg)
 
 ---
 
