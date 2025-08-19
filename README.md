@@ -29,7 +29,7 @@ Hi, I’m Harshith 👋 – a **Full-Stack Developer** focused on **turning idea
 - **Frontend:** React | **Backend:** Django REST Framework  
 
 ### 2️⃣ Fake News Detector
-![Fake News Detector](images/fake news detection.jpg)  
+![Fake News Detector](images/fake_news_detection.jpg)  
 - Detects **fake news using Machine Learning algorithms**  
 - **Tech:** Python, Scikit-learn, NLP  
 
