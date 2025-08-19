@@ -1,14 +1,14 @@
 # Hi, I’m Harshith 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0DF3E3&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer+%7C+AI+Enthusiast+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0DF3E3&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Full-Stack Projects** using **Django & React**  
+- 🔭 I’m a **Full-Stack Developer** working on **Django & React projects**  
 - 🌱 I’m learning **AI & Machine Learning** for next-level projects  
-- 💬 Ask me about **Python, Django, React, AI, and Web Development**  
-- 🎯 Focused on **Data Structures, Algorithms, and Full-Stack Development**  
+- 💬 Ask me about **Python, Django, React, Web Development, and AI**  
+- 🎯 Focused on **Data Structures, Algorithms, and building real-world applications**  
 
 ---
 
@@ -23,24 +23,15 @@
 
 ## 📂 Projects
 
-### 1️⃣ Ecommerce Website
-[![Ecommerce GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)](https://github.com/u-harshith-47b069303)
+### 1️⃣ Digital Kart (Ecommerce Website)
+![Digital Kart](https://images.unsplash.com/photo-1612831665111-1f7e9852e1f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfGFsbHwxfHxzaG9wcGluZ3xlbnwwfHx8fDE2OTI0MzU2NTk&ixlib=rb-4.0.3&q=80&w=400)
 - Full-stack project with **JWT authentication, Cart, Orders, and Payment Integration**  
 - **Frontend:** React | **Backend:** Django REST Framework  
 
-### 2️⃣ AI Resume Generator
-[![AI Resume GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)](https://github.com/u-harshith-47b069303)
-- Generates **professional resumes using AI**  
-- **Tech:** Python, OpenAI API  
-
-### 3️⃣ Portfolio Website
-[![Portfolio GIF](https://media.giphy.com/media/l0ExvMK1gY0HqE9q8/giphy.gif)](https://github.com/u-harshith-47b069303)
-- Personal **Portfolio Website** with **Tailwind CSS & React**  
-
-### 4️⃣ Job Recommender System
-[![Job GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)](https://github.com/u-harshith-47b069303)
-- Suggests jobs based on **skills and preferences**  
-- **Tech:** Python, Pandas, Machine Learning  
+### 2️⃣ Fake News Detector
+![Fake News](https://images.unsplash.com/photo-1581091215366-3ff635d4f048?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfGFsbHwxfHxjb21wdXRlcnxlbnwwfHx8fDE2OTI0MzU3MjA&ixlib=rb-4.0.3&q=80&w=400)
+- Detects **fake news using Machine Learning algorithms**  
+- **Tech:** Python, Scikit-learn, NLP  
 
 ---
 
