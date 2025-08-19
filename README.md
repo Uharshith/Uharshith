@@ -24,12 +24,12 @@ Hi, I’m Harshith 👋 – a **Full-Stack Developer** focused on **turning idea
 ## 📂 Projects
 
 ### 1️⃣ Digital Kart (Ecommerce Website)
-![Digital Kart](images/digitalkart.png)  
+![Digital Kart](images/logo.jpg)  
 - Full-stack project with **JWT authentication, Cart, Orders, and Payment Integration**  
 - **Frontend:** React | **Backend:** Django REST Framework  
 
 ### 2️⃣ Fake News Detector
-![Fake News Detector](images/fakenews.png)  
+![Fake News Detector](images/fake news detection.jpg)  
 - Detects **fake news using Machine Learning algorithms**  
 - **Tech:** Python, Scikit-learn, NLP  
 
