@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-Hi, I’m Harshith Undru 👋 – a **Full-Stack Developer** focused on **turning ideas into real-world web applications** using **Django, React, and Python**.  
+Hi, I’m Harshith Undru👋 – a **Full-Stack Developer** focused on **turning ideas into real-world web applications** using **Django, React, and Python**.  
 - 🌱 I’m learning **AI & Machine Learning** to enhance my projects  
 - 💬 Ask me about **Web Development, Full-Stack Projects, and AI**  
 - 🎯 Passionate about building **efficient, scalable, and user-friendly applications**
