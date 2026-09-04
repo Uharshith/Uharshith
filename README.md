@@ -179,12 +179,14 @@ Java Backend Architecture
  │    ├── Collections Framework (List, Set, Map)
  │    ├── Concurrency & Multithreading
  │    └── JDBC (Connection Pooling & PreparedStatements)
+ |
  ├── Enterprise Technologies
  │    ├── Servlets & JSP Lifecycle
  │    ├── Spring Framework (IoC, DI, Spring MVC)
  │    ├── Spring Boot (Auto-Configuration, REST APIs)
  │    ├── Hibernate & Spring Data JPA (Entity Mapping, Transactions)
  │    └── Spring Security & JWT Auth
+ |
  └── Data Structures & Algorithms
       ├── Linear: Arrays, Linked Lists, Stacks, Queues
       ├── Non-Linear: Trees, BST, Graphs
