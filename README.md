@@ -1,33 +1,40 @@
-# Hi, I'm Harshith 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=2F81F7&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Spring+Boot+%7C+React;Enterprise+Architecture+%7C+REST+APIs+%7C+Microservices;Mastering+DSA+%7C+Spring+Cloud+%7C+System+Design" />
-</p>
+  <!-- Animated Wave Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Hi,%20I'm%20Harshith%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descFontSize=20&descAlignY=62&descAlign=50" width="100%" />
 
-<p align="center">
+  <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Uharshith">
-    <img src="https://img.shields.io/github/followers/Uharshith?label=Followers&style=for-the-badge&logo=github&color=181717" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Spring+Boot+%7C+React;Building+Production-Ready+Web+Applications;Spring+MVC+%2B+REST+APIs+%2B+Servlets+%2B+JDBC;DSA+Problem+Solver+%7C+Open+to+Entry-Level+Roles" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/Uharshith?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-2F81F7?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+
+  <!-- Profile & Social Badges -->
+  <p align="center">
+    <a href="https://github.com/Uharshith">
+      <img src="https://img.shields.io/github/followers/Uharshith?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" />
+    </a>
+    <a href="https://github.com/Uharshith?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-View%20Projects-2F81F7?style=for-the-badge&logo=github" alt="Repositories" />
+    </a>
+    <a href="https://linkedin.com/in/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Java Full-Stack Developer** focused on engineering scalable, high-performance web applications and resilient enterprise backend systems. 
+I am a **Java Full-Stack Developer** focused on engineering reliable, high-performance web applications and scalable backend services.
 
 My primary technical foundation centers on the **Java and Spring Ecosystem**, bridging robust server-side business logic with modern, dynamic user interfaces.
 
-- ☕ **Core Expertise:** Java, Spring Boot, Spring MVC, Hibernate/JPA, and Microservices architecture.
-- ⚙️ **Foundational Backend:** Strong grasp of Servlets, JSP, JDBC, multi-threading, and OOP design patterns.
+- ☕ **Core Expertise:** Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, and RESTful Web Services.
+- ⚙️ **Backend Fundamentals:** Strong grasp of Servlets, JSP, JDBC, connection pooling, multi-threading, and OOP design patterns.
 - 🌐 **Frontend Development:** Building modular, component-driven client applications using **React, JavaScript, and Tailwind CSS**.
-- 🗄️ **Data & APIs:** Designing normalized relational schemas with **MySQL & PostgreSQL** and crafting secure **RESTful APIs**.
+- 🗄️ **Data & APIs:** Designing normalized relational schemas with **MySQL & PostgreSQL** and crafting secure, stateless **RESTful APIs**.
 - 🧩 **Problem Solving:** Actively solving algorithmic challenges in **Data Structures & Algorithms (DSA)** using Java.
 - 🎯 **Looking For:** Full-time roles as a **Software Engineer / Java Full-Stack Developer**.
 
@@ -43,14 +50,16 @@ My primary technical foundation centers on the **Java and Spring Ecosystem**, br
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### ⚙️ Java & Backend Architecture
+### ⚙️ Java Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Servlets%20&%20JSP-E76F00?style=for-the-badge&logo=apachetomcat&logoColor=white" />
   <img src="https://img.shields.io/badge/JDBC-5382A1?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 🌐 Frontend Development
@@ -59,12 +68,22 @@ My primary technical foundation centers on the **Java and Spring Ecosystem**, br
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### 🗄️ Database & Storage
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Build Systems
@@ -74,6 +93,7 @@ My primary technical foundation centers on the **Java and Spring Ecosystem**, br
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -100,7 +120,7 @@ An intelligent, full-stack student lifecycle and performance management platform
 
 ---
 
-## 🛒 Digital Kart — Enterprise E-Commerce Platform
+## 🛒 Digital Kart — Full-Stack E-Commerce Platform
 
 <p align="center">
   <img src="images/logo.jpg" alt="Digital Kart" width="400"/>
@@ -113,7 +133,7 @@ A multi-tier e-commerce web application engineered to handle end-to-end shopping
 - 📦 **Order Lifecycle:** Session-based and persistent user cart, checkout validation, and structured order history tracking.
 - ⚡ **Database Layer:** Direct relational mapping and optimized SQL queries ensuring transaction integrity.
 
-**Tech Stack:** `Java` `Spring Boot` `Spring Security` `JPA / Hibernate` `React` `MySQL`
+**Tech Stack:** `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `JDBC` `React` `MySQL`
 
 🔗 **[View Project Repository →](#)**
 
@@ -137,20 +157,48 @@ A machine-learning-driven verification tool that inspects digital articles, extr
 
 ---
 
+## 🛡️ Unified Fraudulent Profile Detection
+
+A machine-learning-assisted detection engine built to inspect digital accounts, isolate atypical behavioral indicators, and flag suspicious online identities.
+
+- 🔍 **Behavioral Profile Profiling:** Analyzes account creation timelines, interaction frequency, and metadata indicators.
+- ⚙️ **Preprocessing & Feature Engineering:** Normalizes user activity metrics into structured numerical vectors for anomaly classification.
+- 📊 **Risk Scoring Dashboard:** Visual indicator flags segmenting evaluated accounts into verified, review-required, or fraudulent categories.
+
+**Tech Stack:** `Python` `Machine Learning` `Pandas` `NumPy` `Data Analysis` `REST API`
+
+🔗 **[View Project Repository →](#)**
+
+---
+
+### 📊 GitHub Activity & Real-Time Stats
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Uharshith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harshith's GitHub Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uharshith&theme=tokyonight&hide_border=true" alt="Harshith's Streak Stats" width="49%" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uharshith&layout=compact&theme=tokyonight&hide_border=true" alt="Harshith's Top Languages" width="55%" />
+  </p>
+</div>
+
+---
+
 # 📚 Technical Roadmap
 
 ```text
 Java Backend Architecture
  ├── Core Java
  │    ├── OOP Paradigms & Clean Code
- │    ├── Collections Framework
+ │    ├── Collections Framework (List, Set, Map)
  │    ├── Concurrency & Multithreading
- │    └── JDBC Connection Pooling
+ │    └── JDBC (Connection Pooling & PreparedStatements)
  ├── Enterprise Technologies
  │    ├── Servlets & JSP Lifecycle
- │    ├── Spring Framework (IoC, DI, AOP)
- │    ├── Spring Boot & Autoconfiguration
- │    ├── Hibernate & Spring Data JPA
+ │    ├── Spring Framework (IoC, DI, Spring MVC)
+ │    ├── Spring Boot (Auto-Configuration, REST APIs)
+ │    ├── Hibernate & Spring Data JPA (Entity Mapping, Transactions)
  │    └── Spring Security & JWT Auth
  └── Data Structures & Algorithms
       ├── Linear: Arrays, Linked Lists, Stacks, Queues
