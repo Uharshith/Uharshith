@@ -45,112 +45,47 @@ My primary technical foundation centers on the **Java and Spring Ecosystem**, br
 
 ## 💻 Tech Stack
 
-### 💻 Languages
 <p align="left">
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="44" height="44" alt="Java" /><br>
-    <sub><b>Java</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" /><br>
-    <sub><b>Python</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br>
-    <sub><b>JavaScript</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="SQL" /><br>
-    <sub><b>SQL</b></sub>
-  </span>
+  <b>Languages:</b>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20" align="center" alt="Java" /> <b>Java</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" align="center" alt="Python" /> <b>Python</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" align="center" alt="JavaScript" /> <b>JavaScript</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20" align="center" alt="SQL" /> <b>SQL</b>
 </p>
 
-### ⚙️ Backend & Architecture
 <p align="left">
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="44" height="44" alt="Spring Boot" /><br>
-    <sub><b>Spring Boot</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="44" height="44" alt="Hibernate" /><br>
-    <sub><b>Hibernate</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="44" height="44" alt="Servlets & JSP" /><br>
-    <sub><b>Servlets / JSP</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="44" height="44" alt="JDBC" /><br>
-    <sub><b>JDBC</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="REST APIs" /><br>
-    <sub><b>REST APIs</b></sub>
-  </span>
+  <b>Backend:</b>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20" align="center" alt="Spring Boot" /> <b>Spring Boot</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20" align="center" alt="Spring MVC" /> <b>Spring MVC</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="20" height="20" align="center" alt="Hibernate" /> <b>Hibernate</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="20" height="20" align="center" alt="Servlets / JSP" /> <b>Servlets & JSP</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="20" height="20" align="center" alt="JDBC" /> <b>JDBC</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="20" height="20" align="center" alt="REST APIs" /> <b>REST APIs</b>
 </p>
 
-### 🌐 Frontend Development
 <p align="left">
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="React" /><br>
-    <sub><b>React</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /><br>
-    <sub><b>HTML5</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /><br>
-    <sub><b>CSS3</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" /><br>
-    <sub><b>Tailwind CSS</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="44" height="44" alt="Bootstrap" /><br>
-    <sub><b>Bootstrap</b></sub>
-  </span>
+  <b>Frontend:</b>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" align="center" alt="React" /> <b>React</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" align="center" alt="HTML5" /> <b>HTML5</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20" align="center" alt="CSS3" /> <b>CSS3</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" align="center" alt="Tailwind CSS" /> <b>Tailwind CSS</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20" height="20" align="center" alt="Bootstrap" /> <b>Bootstrap</b>
 </p>
 
-### 🗄️ Databases & Storage
 <p align="left">
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" /><br>
-    <sub><b>MySQL</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" /><br>
-    <sub><b>PostgreSQL</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="44" height="44" alt="SQLite" /><br>
-    <sub><b>SQLite</b></sub>
-  </span>
+  <b>Databases:</b>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20" align="center" alt="MySQL" /> <b>MySQL</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20" height="20" align="center" alt="PostgreSQL" /> <b>PostgreSQL</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20" height="20" align="center" alt="SQLite" /> <b>SQLite</b>
 </p>
 
-### 🔧 Tools & Build Environments
 <p align="left">
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="44" height="44" alt="Maven" /><br>
-    <sub><b>Maven</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br>
-    <sub><b>Git</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44" height="44" alt="GitHub" /><br>
-    <sub><b>GitHub</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="44" height="44" alt="IntelliJ IDEA" /><br>
-    <sub><b>IntelliJ IDEA</b></sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:24px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code" /><br>
-    <sub><b>VS Code</b></sub>
-  </span>
+  <b>Tools:</b>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="20" height="20" align="center" alt="Maven" /> <b>Maven</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" align="center" alt="Git" /> <b>Git</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20" align="center" alt="GitHub" /> <b>GitHub</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="20" height="20" align="center" alt="IntelliJ IDEA" /> <b>IntelliJ IDEA</b> &nbsp;•&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20" align="center" alt="VS Code" /> <b>VS Code</b>
 </p>
 
 ---
