@@ -46,126 +46,112 @@ My primary technical foundation centers on the **Java and Spring Ecosystem**, br
 ## 💻 Tech Stack
 
 ### 💻 Languages
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-      <br><sub><b>SQL</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="44" height="44" alt="Java" /><br>
+    <sub><b>Java</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" /><br>
+    <sub><b>Python</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br>
+    <sub><b>JavaScript</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="SQL" /><br>
+    <sub><b>SQL</b></sub>
+  </span>
+</p>
 
 ### ⚙️ Backend & Architecture
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-      <br><sub><b>Spring Boot</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
-      <br><sub><b>Hibernate</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="48" height="48" alt="Servlets & JSP" />
-      <br><sub><b>Servlets / JSP</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="JDBC" />
-      <br><sub><b>JDBC</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="REST APIs" />
-      <br><sub><b>REST APIs</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="44" height="44" alt="Spring Boot" /><br>
+    <sub><b>Spring Boot</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="44" height="44" alt="Hibernate" /><br>
+    <sub><b>Hibernate</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="44" height="44" alt="Servlets & JSP" /><br>
+    <sub><b>Servlets / JSP</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="44" height="44" alt="JDBC" /><br>
+    <sub><b>JDBC</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="REST APIs" /><br>
+    <sub><b>REST APIs</b></sub>
+  </span>
+</p>
 
 ### 🌐 Frontend Development
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br><sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br><sub><b>Bootstrap</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="React" /><br>
+    <sub><b>React</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /><br>
+    <sub><b>HTML5</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /><br>
+    <sub><b>CSS3</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" /><br>
+    <sub><b>Tailwind CSS</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="44" height="44" alt="Bootstrap" /><br>
+    <sub><b>Bootstrap</b></sub>
+  </span>
+</p>
 
 ### 🗄️ Databases & Storage
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      <br><sub><b>SQLite</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" /><br>
+    <sub><b>MySQL</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" /><br>
+    <sub><b>PostgreSQL</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="44" height="44" alt="SQLite" /><br>
+    <sub><b>SQLite</b></sub>
+  </span>
+</p>
 
 ### 🔧 Tools & Build Environments
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
-      <br><sub><b>Maven</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
-      <br><sub><b>IntelliJ IDEA</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
-      <br><sub><b>Eclipse</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="44" height="44" alt="Maven" /><br>
+    <sub><b>Maven</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br>
+    <sub><b>Git</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44" height="44" alt="GitHub" /><br>
+    <sub><b>GitHub</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="44" height="44" alt="IntelliJ IDEA" /><br>
+    <sub><b>IntelliJ IDEA</b></sub>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-right:24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code" /><br>
+    <sub><b>VS Code</b></sub>
+  </span>
+</p>
 
 ---
 
