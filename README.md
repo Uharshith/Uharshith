@@ -157,29 +157,15 @@ A machine-learning-driven verification tool that inspects digital articles, extr
 
 ---
 
-## 🛡️ Unified Fraudulent Profile Detection
-
-A machine-learning-assisted detection engine built to inspect digital accounts, isolate atypical behavioral indicators, and flag suspicious online identities.
-
-- 🔍 **Behavioral Profile Profiling:** Analyzes account creation timelines, interaction frequency, and metadata indicators.
-- ⚙️ **Preprocessing & Feature Engineering:** Normalizes user activity metrics into structured numerical vectors for anomaly classification.
-- 📊 **Risk Scoring Dashboard:** Visual indicator flags segmenting evaluated accounts into verified, review-required, or fraudulent categories.
-
-**Tech Stack:** `Python` `Machine Learning` `Pandas` `NumPy` `Data Analysis` `REST API`
-
-🔗 **[View Project Repository →](#)**
-
----
-
 ### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Uharshith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harshith's GitHub Stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uharshith&theme=tokyonight&hide_border=true" alt="Harshith's Streak Stats" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Uharshith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Harshith's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uharshith&theme=tokyonight&hide_border=true" alt="Harshith's Streak Stats" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uharshith&layout=compact&theme=tokyonight&hide_border=true" alt="Harshith's Top Languages" width="55%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Uharshith&layout=compact&theme=tokyonight&hide_border=true" alt="Harshith's Top Languages" />
   </p>
 </div>
 
@@ -194,12 +180,14 @@ Java Backend Architecture
  │    ├── Collections Framework (List, Set, Map)
  │    ├── Concurrency & Multithreading
  │    └── JDBC (Connection Pooling & PreparedStatements)
+ |
  ├── Enterprise Technologies
  │    ├── Servlets & JSP Lifecycle
  │    ├── Spring Framework (IoC, DI, Spring MVC)
  │    ├── Spring Boot (Auto-Configuration, REST APIs)
  │    ├── Hibernate & Spring Data JPA (Entity Mapping, Transactions)
  │    └── Spring Security & JWT Auth
+ |
  └── Data Structures & Algorithms
       ├── Linear: Arrays, Linked Lists, Stacks, Queues
       ├── Non-Linear: Trees, BST, Graphs
