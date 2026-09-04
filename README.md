@@ -1,26 +1,26 @@
 <div align="center">
 
   <!-- Minimal Dark Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=220&section=header&text=Hi,%20I'm%20Harshith%20👋&fontSize=50&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descFontSize=20&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Hi,%20I'm%20Harshith%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descFontSize=20&descAlignY=62&descAlign=50" width="100%" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Uharshith">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Spring+Boot+%7C+React;Building+Production-Ready+Web+Applications;Spring+MVC+%2B+REST+APIs+%2B+Servlets+%2B+JDBC;DSA+Problem+Solver+%7C+Open+to+Entry-Level+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Spring+Boot+%7C+React;Building+Production-Ready+Web+Applications;Spring+MVC+%2B+REST+APIs+%2B+Servlets+%2B+JDBC;DSA+Problem+Solver+%7C+Open+to+Entry-Level+Roles" alt="Typing SVG" />
   </a>
 
   <!-- Profile & Social Badges -->
   <p align="center">
     <a href="https://github.com/Uharshith">
-      <img src="https://img.shields.io/github/followers/Uharshith?label=Followers&style=flat-square&logo=github&color=1e293b&labelColor=0f172a" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/Uharshith?label=Followers&style=flat-square&logo=github&color=2563EB&labelColor=0f172a" alt="Followers" />
     </a>
     <a href="https://github.com/Uharshith?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-View%20Projects-1e293b?style=flat-square&logo=github&labelColor=0f172a" alt="Repositories" />
+      <img src="https://img.shields.io/badge/Repositories-View%20Projects-2563EB?style=flat-square&logo=github&labelColor=0f172a" alt="Repositories" />
     </a>
     <a href="https://leetcode.com/u/i_am_harshith99/">
-      <img src="https://img.shields.io/badge/LeetCode-i__am__harshith99-B45309?style=flat-square&logo=leetcode&logoColor=F59E0B&labelColor=0f172a" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/LeetCode-i__am__harshith99-2563EB?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0f172a" alt="LeetCode" />
     </a>
     <a href="https://linkedin.com/in/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=flat-square&logo=linkedin&labelColor=0f172a" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&labelColor=0f172a" alt="LinkedIn" />
     </a>
   </p>
 
@@ -45,59 +45,59 @@ My primary technical foundation centers on the **Java and Spring Ecosystem**, br
 
 ## 🛠️ Tech Stack
 
-### 💻 Core & Languages *(Warm Amber & Ochre)*
+### 💻 Core & Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-92400E?style=flat-square&logo=openjdk&logoColor=FDE68A&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/JavaScript-B45309?style=flat-square&logo=javascript&logoColor=FDE68A&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/SQL-D97706?style=flat-square&logo=mysql&logoColor=FDE68A&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Python-B45309?style=flat-square&logo=python&logoColor=FDE68A&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/JavaScript-2563EB?style=flat-square&logo=javascript&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=mysql&logoColor=white&labelColor=0f172a" />
 </p>
 
-### ⚙️ Java Backend & Frameworks *(Subtle Forest Green)*
+### ⚙️ Java Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-166534?style=flat-square&logo=springboot&logoColor=BBF7D0&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Spring%20MVC-15803D?style=flat-square&logo=spring&logoColor=BBF7D0&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Spring%20Security-166534?style=flat-square&logo=springsecurity&logoColor=BBF7D0&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-15803D?style=flat-square&logo=spring&logoColor=BBF7D0&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Servlets%20&%20JSP-22543D?style=flat-square&logo=apachetomcat&logoColor=BBF7D0&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/JDBC-166534?style=flat-square&logo=oracle&logoColor=BBF7D0&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Hibernate-276749?style=flat-square&logo=hibernate&logoColor=BBF7D0&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/REST%20APIs-15803D?style=flat-square&logo=fastapi&logoColor=BBF7D0&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-2563EB?style=flat-square&logo=springboot&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-2563EB?style=flat-square&logo=spring&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Spring%20Security-2563EB?style=flat-square&logo=springsecurity&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-2563EB?style=flat-square&logo=spring&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Servlets%20&%20JSP-2563EB?style=flat-square&logo=apachetomcat&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/JDBC-2563EB?style=flat-square&logo=oracle&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Hibernate-2563EB?style=flat-square&logo=hibernate&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square&logo=fastapi&logoColor=white&labelColor=0f172a" />
 </p>
 
-### 🌐 Frontend Development *(Muted Cyan & Teal)*
+### 🌐 Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/React-0E7490?style=flat-square&logo=react&logoColor=67E8F9&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/HTML5-0891B2?style=flat-square&logo=html5&logoColor=CFFAFE&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/CSS3-0E7490?style=flat-square&logo=css3&logoColor=CFFAFE&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0891B2?style=flat-square&logo=tailwindcss&logoColor=67E8F9&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Bootstrap-155E75?style=flat-square&logo=bootstrap&logoColor=CFFAFE&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/HTML5-2563EB?style=flat-square&logo=html5&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/TailwindCSS-2563EB?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Bootstrap-2563EB?style=flat-square&logo=bootstrap&logoColor=white&labelColor=0f172a" />
 </p>
 
-### 🗄️ Database & Storage *(Deep Indigo & Blue)*
+### 🗄️ Database & Storage
 <p>
-  <img src="https://img.shields.io/badge/MySQL-1E40AF?style=flat-square&logo=mysql&logoColor=BFDBFE&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=BFDBFE&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/SQLite-2563EB?style=flat-square&logo=sqlite&logoColor=BFDBFE&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/SQLite-2563EB?style=flat-square&logo=sqlite&logoColor=white&labelColor=0f172a" />
 </p>
 
-### 🤖 AI / Machine Learning *(Earthy Terra Cotta & Rose)*
+### 🤖 AI / Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-9F1239?style=flat-square&logo=scikit-learn&logoColor=FECDD3&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Pandas-881337?style=flat-square&logo=pandas&logoColor=FECDD3&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/NumPy-9F1239?style=flat-square&logo=numpy&logoColor=FECDD3&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/NLP-BE123C?style=flat-square&logo=tensorflow&logoColor=FECDD3&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-2563EB?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Pandas-2563EB?style=flat-square&logo=pandas&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/NumPy-2563EB?style=flat-square&logo=numpy&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0f172a" />
 </p>
 
-### 🔧 Tools & Build Systems *(Muted Slate & Graphite)*
+### 🔧 Tools & Build Systems
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Maven-475569?style=flat-square&logo=apachemaven&logoColor=F8FAFC&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=F8FAFC&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/GitHub-475569?style=flat-square&logo=github&logoColor=F8FAFC&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Postman-334155?style=flat-square&logo=postman&logoColor=F8FAFC&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-475569?style=flat-square&logo=intellijidea&logoColor=F8FAFC&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/Eclipse-334155?style=flat-square&logo=eclipseide&logoColor=F8FAFC&labelColor=1E293B" />
-  <img src="https://img.shields.io/badge/VS%20Code-475569?style=flat-square&logo=visual-studio-code&logoColor=F8FAFC&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/Maven-2563EB?style=flat-square&logo=apachemaven&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Postman-2563EB?style=flat-square&logo=postman&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2563EB?style=flat-square&logo=intellijidea&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Eclipse-2563EB?style=flat-square&logo=eclipseide&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/VS%20Code-2563EB?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=0f172a" />
 </p>
 
 ---
