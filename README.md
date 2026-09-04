@@ -3,26 +3,35 @@
   <!-- Executive Dual-Tone Navy & Royal Blue Gradient Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e3a8a,2563eb&height=220&section=header&text=Hi,%20I'm%20Harshith%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descFontSize=20&descAlignY=62&descAlign=50" width="100%" />
 
+  <br><br>
+
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Uharshith">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Spring+Boot+%7C+React;Building+Production-Ready+Web+Applications;Spring+MVC+%2B+REST+APIs+%2B+Servlets+%2B+JDBC;DSA+Problem+Solver+%7C+Open+to+Entry-Level+Roles" alt="Typing SVG" />
   </a>
 
-  <!-- Profile & Social Badges -->
+  <br><br>
+
+  <!-- Profile & Social Badges with Spacing -->
   <p align="center">
     <a href="https://github.com/Uharshith">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Uharshith?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-View%20Projects-2563EB?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://leetcode.com/u/i_am_harshith99/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
+
+  <br>
 
 </div>
 
@@ -237,25 +246,48 @@ A machine-learning-driven verification tool that inspects digital articles, extr
 
 ---
 
-# 📚 Technical Roadmap
+# 📚 Current Learning Roadmap
 
 ```text
-Java Backend Architecture
- ├── Core Java
- │    ├── OOP Paradigms & Clean Code
- │    ├── Collections Framework (List, Set, Map)
- │    ├── Concurrency & Multithreading
- │    └── JDBC (Connection Pooling & PreparedStatements)
- |
- ├── Enterprise Technologies
- │    ├── Servlets & JSP Lifecycle
- │    ├── Spring Framework (IoC, DI, Spring MVC)
- │    ├── Spring Boot (Auto-Configuration, REST APIs)
- │    ├── Hibernate & Spring Data JPA (Entity Mapping, Transactions)
- │    └── Spring Security & JWT Auth
- |
- └── Data Structures & Algorithms
-      ├── Linear: Arrays, Linked Lists, Stacks, Queues
-      ├── Non-Linear: Trees, BST, Graphs
-      ├── Algorithms: Dynamic Programming, Binary Search, Hashing
-      └── Complexity Analysis (Big O)
+Java
+│
+├── Core Java
+│   ├── OOP
+│   ├── Collections
+│   ├── Exception Handling
+│   ├── Multithreading
+│   └── Java 8+
+│
+├── Database
+│   ├── SQL
+│   ├── JDBC
+│   ├── MySQL
+│   └── PostgreSQL
+│
+├── Web
+│   ├── Servlets
+│   └── JSP
+│
+├── Spring Ecosystem
+│   ├── Spring Core
+│   ├── Spring MVC
+│   ├── Spring Boot
+│   ├── REST APIs
+│   ├── Spring Data JPA
+│   ├── Hibernate
+│   └── Spring Security + JWT
+│
+├── Frontend
+│   ├── HTML
+│   ├── CSS
+│   ├── JavaScript
+│   └── React
+│
+└── DSA
+    ├── Arrays & Strings
+    ├── Hashing
+    ├── Linked Lists
+    ├── Stack & Queue
+    ├── Trees
+    ├── Graphs
+    └── Problem Solving
