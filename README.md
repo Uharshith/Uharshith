@@ -16,6 +16,9 @@
     <a href="https://github.com/Uharshith?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-View%20Projects-2F81F7?style=for-the-badge&logo=github" alt="Repositories" />
     </a>
+    <a href="https://leetcode.com/u/i_am_harshith99/">
+      <img src="https://img.shields.io/badge/LeetCode-i__am__harshith99-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
     <a href="https://linkedin.com/in/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
@@ -157,16 +160,12 @@ A machine-learning-driven verification tool that inspects digital articles, extr
 
 ---
 
-### 📊 GitHub Activity & Real-Time Stats
+### 🧩 LeetCode & Problem Solving Metrics
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Uharshith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Harshith's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uharshith&theme=tokyonight&hide_border=true" alt="Harshith's Streak Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Uharshith&layout=compact&theme=tokyonight&hide_border=true" alt="Harshith's Top Languages" />
-  </p>
+  <a href="https://leetcode.com/u/i_am_harshith99/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/i_am_harshith99?theme=dark&font=Fira%20Code&ext=heatmap" alt="Harshith's LeetCode Stats" />
+  </a>
 </div>
 
 ---
@@ -180,14 +179,12 @@ Java Backend Architecture
  │    ├── Collections Framework (List, Set, Map)
  │    ├── Concurrency & Multithreading
  │    └── JDBC (Connection Pooling & PreparedStatements)
- |
  ├── Enterprise Technologies
  │    ├── Servlets & JSP Lifecycle
  │    ├── Spring Framework (IoC, DI, Spring MVC)
  │    ├── Spring Boot (Auto-Configuration, REST APIs)
  │    ├── Hibernate & Spring Data JPA (Entity Mapping, Transactions)
  │    └── Spring Security & JWT Auth
- |
  └── Data Structures & Algorithms
       ├── Linear: Arrays, Linked Lists, Stacks, Queues
       ├── Non-Linear: Trees, BST, Graphs
