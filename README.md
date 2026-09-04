@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Minimal Dark Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Hi,%20I'm%20Harshith%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descFontSize=20&descAlignY=62&descAlign=50" width="100%" />
+  <!-- Executive Dual-Tone Navy & Royal Blue Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e3a8a,2563eb&height=220&section=header&text=Hi,%20I'm%20Harshith%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descFontSize=20&descAlignY=62&descAlign=50" width="100%" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Uharshith">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Spring+Boot+%7C+React;Building+Production-Ready+Web+Applications;Spring+MVC+%2B+REST+APIs+%2B+Servlets+%2B+JDBC;DSA+Problem+Solver+%7C+Open+to+Entry-Level+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Spring+Boot+%7C+React;Building+Production-Ready+Web+Applications;Spring+MVC+%2B+REST+APIs+%2B+Servlets+%2B+JDBC;DSA+Problem+Solver+%7C+Open+to+Entry-Level+Roles" alt="Typing SVG" />
   </a>
 
   <!-- Profile & Social Badges -->
