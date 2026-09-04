@@ -226,7 +226,26 @@ A machine-learning-driven verification tool that inspects digital articles, extr
 
 **Tech Stack:** `Python` `Scikit-Learn` `NLP` `Pandas` `NumPy` `REST API`
 
-🔗 **[View Project Repository →](#)**
+🔗 **[View Project Repository →](https://github.com/Uharshith/Fake_news_detector)**
+
+---
+
+## 🏪 SellPoint — Full-Stack Marketplace Platform
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0f172a&height=120&text=SellPoint%20Marketplace%20Platform&fontSize=28&fontColor=38bdf8" alt="SellPoint Platform" width="100%"/>
+</p>
+
+A decoupled full-stack marketplace web application built for local peer-to-peer commerce, allowing users to discover, list, and transact items across multiple categories.
+
+- 🔐 **Stateless Authentication:** Secure user identity workflows and protected endpoints implemented with **JWT & hashed credentials**.
+- 📦 **Listing Lifecycle:** Multipart form uploads for item images, price indexing, and multi-category management (Vehicles, Gadgets, Real Estate).
+- ⚡ **RESTful Architecture:** High-efficiency **Node.js/Express** backend serving structured data to an optimized client.
+- 💻 **Dynamic Frontend:** Built with **React + Vite** featuring instant category filtering, modal detail views, and responsive design.
+
+**Tech Stack:** `React` `Vite` `Node.js` `Express.js` `REST APIs` `JavaScript` `CSS3`
+
+🔗 **[View Project Repository →](https://github.com/Uharshith/sellpoint-ecommerce)**
 
 ---
 
