@@ -1,15 +1,18 @@
 # Hi, I'm Harshith 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=2F81F7&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Python+%7C+Django+%7C+React;Building+Real-World+Applications;Learning+DSA+%7C+Spring+Boot+%7C+AI+%26+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=2F81F7&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Spring+Boot+%7C+React;Enterprise+Architecture+%7C+REST+APIs+%7C+Microservices;Mastering+DSA+%7C+Spring+Cloud+%7C+System+Design" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Uharshith">
-    <img src="https://img.shields.io/github/followers/Uharshith?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/Uharshith?label=Followers&style=for-the-badge&logo=github&color=181717" />
   </a>
   <a href="https://github.com/Uharshith?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-blue?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-2F81F7?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -17,62 +20,62 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Harshith Undru**, a fresher developer focused on building
-**full-stack web applications and backend systems**.
+I am a **Java Full-Stack Developer** focused on engineering scalable, high-performance web applications and resilient enterprise backend systems. 
 
-My primary focus is **Java Full-Stack Development**, while I also have
-hands-on experience building applications using **Python, Django, React,
-REST APIs, and Machine Learning**.
+My primary technical foundation centers on the **Java and Spring Ecosystem**, bridging robust server-side business logic with modern, dynamic user interfaces.
 
-- 💻 Currently focusing on **Java, Spring, Spring Boot, and DSA**
-- 🌐 Experienced with **React, Django, REST APIs, and database integration**
-- 🤖 Exploring **AI & Machine Learning** and integrating it into real-world applications
-- 🧩 Interested in **backend development, APIs, system design, and problem solving**
-- 🚀 Building projects to strengthen my practical development skills
-- 🎯 Currently looking for **Software Developer / Java Full-Stack Developer opportunities**
+- ☕ **Core Expertise:** Java, Spring Boot, Spring MVC, Hibernate/JPA, and Microservices architecture.
+- ⚙️ **Foundational Backend:** Strong grasp of Servlets, JSP, JDBC, multi-threading, and OOP design patterns.
+- 🌐 **Frontend Development:** Building modular, component-driven client applications using **React, JavaScript, and Tailwind CSS**.
+- 🗄️ **Data & APIs:** Designing normalized relational schemas with **MySQL & PostgreSQL** and crafting secure **RESTful APIs**.
+- 🧩 **Problem Solving:** Actively solving algorithmic challenges in **Data Structures & Algorithms (DSA)** using Java.
+- 🎯 **Looking For:** Full-time roles as a **Software Engineer / Java Full-Stack Developer**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Core & Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Java & Backend Architecture
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlets%20&%20JSP-E76F00?style=for-the-badge&logo=apachetomcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-5382A1?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### 🗄️ Database & Storage
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🤖 AI / Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Tools & Build Systems
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
@@ -81,89 +84,76 @@ REST APIs, and Machine Learning**.
 ## 🤖 AI Driven Student Academic Tracking & Recommendation System
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Uharshith/ai-student-tracking-system/main/logo.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/Uharshith/ai-student-tracking-system/main/logo.png" width="220" alt="Academic System Logo"/>
 </p>
 
-A full-stack academic management system that combines student
-performance tracking with machine learning-based academic risk prediction.
+An intelligent, full-stack student lifecycle and performance management platform. Combines institutional tracking systems with analytical models to detect students at academic risk and suggest interventions.
 
-### Key Features
+- 👨‍🎓 **Role-Based Access Control (RBAC):** Distinct interfaces and privileges for students, professors, and department heads.
+- 📊 **Academic Pipeline:** Complete tracking of attendance metrics, internal marks, and exam score trends.
+- 🤖 **Risk Analysis Engine:** Predictive classification identifying performance bottlenecks before semester finals.
+- 🔌 **Seamless Integration:** REST-based decoupled architecture connecting dynamic React dashboards to the backend engine.
 
-- 👨‍🎓 Student and Faculty role-based access
-- 📊 Attendance tracking
-- 📝 MID / Internal / Final marks management
-- 📈 Academic performance dashboard
-- 🤖 Machine learning-based risk prediction
-- 💡 Performance-based recommendations
-- 🔌 Frontend-backend API integration
+**Tech Stack:** `Java` `Spring Boot` `REST APIs` `React` `MySQL` `Machine Learning`
 
-**Tech Stack:**  
-`Python` `Django` `React` `REST API` `Machine Learning`
-
-🔗 **[View Project →](https://github.com/Uharshith/ai-student-tracking-system)**
+🔗 **[View Project Repository →](https://github.com/Uharshith/ai-student-tracking-system)**
 
 ---
 
-## 🛒 Digital Kart — E-Commerce Platform
+## 🛒 Digital Kart — Enterprise E-Commerce Platform
 
-A full-stack e-commerce application designed to simulate a
-real-world online shopping platform.
+<p align="center">
+  <img src="images/logo.jpg" alt="Digital Kart" width="400"/>
+</p>
 
-### Key Features
+A multi-tier e-commerce web application engineered to handle end-to-end shopping operations, from catalogue discovery to transactional checkout.
 
-- 🔐 JWT-based authentication
-- 🛍️ Product browsing and management
-- 🛒 Shopping cart
-- 📦 Order management
-- 💳 Payment integration
-- 🔌 REST API-based architecture
+- 🔐 **Stateless Security:** User authorization and authentication secured via **Spring Security & JWT tokens**.
+- 🛍️ **Catalogue & Inventory:** Dynamic search, product classification, and stock-level validation using **Spring Data JPA & Hibernate**.
+- 📦 **Order Lifecycle:** Session-based and persistent user cart, checkout validation, and structured order history tracking.
+- ⚡ **Database Layer:** Direct relational mapping and optimized SQL queries ensuring transaction integrity.
 
-**Tech Stack:**  
-`React` `Django REST Framework` `Python` `JWT` `Database`
+**Tech Stack:** `Java` `Spring Boot` `Spring Security` `JPA / Hibernate` `React` `MySQL`
 
-🔗 **[View Project →](#)**
+🔗 **[View Project Repository →](#)**
 
 ---
 
-## 📰 Fake News Detector
+## 📰 Fake News Detector & Content Classifier
 
-A machine learning application that analyzes news content and
-predicts whether an article is likely to be **real or fake**.
+<p align="center">
+  <img src="images/fake_news_detection.jpg" alt="Fake News Detector" width="400"/>
+</p>
 
-### Key Features
+A machine-learning-driven verification tool that inspects digital articles, extracts textual features, and flags misleading or fabricated media.
 
-- 🧹 Text preprocessing
-- 🔤 Natural Language Processing
-- 🤖 Machine Learning classification
-- 📊 Prediction results
+- 🧹 **Text Cleaning Pipeline:** Custom preprocessing pipeline handling stop-word filtering, tokenization, and stemming.
+- 🔤 **Vectorization:** TF-IDF feature extraction translating unstructured prose into high-dimensional vector representations.
+- 📊 **Inference Engine:** Classification algorithms evaluating text credibility with real-time confidence scores.
 
-**Tech Stack:**  
-`Python` `Scikit-learn` `NLP` `Pandas` `NumPy`
+**Tech Stack:** `Python` `Scikit-Learn` `NLP` `Pandas` `NumPy` `REST API`
 
-🔗 **[View Project →](#)**
+🔗 **[View Project Repository →](#)**
 
 ---
 
-# 📚 Currently Learning
+# 📚 Technical Roadmap
 
 ```text
-Java
-  ├── OOP
-  ├── Collections
-  ├── Exception Handling
-  ├── JDBC
-  └── Advanced Java
-
-Spring Ecosystem
-  ├── Spring
-  ├── Spring Boot
-  ├── REST APIs
-  └── Database Integration
-
-DSA
-  ├── Arrays
-  ├── Strings
-  ├── Hashing
-  ├── Linked Lists
-  ├── Stack & Queue
-  └── Problem Solving
+Java Backend Architecture
+ ├── Core Java
+ │    ├── OOP Paradigms & Clean Code
+ │    ├── Collections Framework
+ │    ├── Concurrency & Multithreading
+ │    └── JDBC Connection Pooling
+ ├── Enterprise Technologies
+ │    ├── Servlets & JSP Lifecycle
+ │    ├── Spring Framework (IoC, DI, AOP)
+ │    ├── Spring Boot & Autoconfiguration
+ │    ├── Hibernate & Spring Data JPA
+ │    └── Spring Security & JWT Auth
+ └── Data Structures & Algorithms
+      ├── Linear: Arrays, Linked Lists, Stacks, Queues
+      ├── Non-Linear: Trees, BST, Graphs
+      ├── Algorithms: Dynamic Programming, Binary Search, Hashing
+      └── Complexity Analysis (Big O)
